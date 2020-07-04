@@ -1,7 +1,0 @@
-A:\Brock Onedrive\OneDrive - Brockenhurst College\Programs\Samuel L Jackson quote generator\bin\Debug\Samuel L Jackson quote generator.exe.config
-A:\Brock Onedrive\OneDrive - Brockenhurst College\Programs\Samuel L Jackson quote generator\bin\Debug\Samuel L Jackson quote generator.exe
-A:\Brock Onedrive\OneDrive - Brockenhurst College\Programs\Samuel L Jackson quote generator\bin\Debug\Samuel L Jackson quote generator.pdb
-A:\Brock Onedrive\OneDrive - Brockenhurst College\Programs\Samuel L Jackson quote generator\obj\Debug\Samuel L Jackson quote generator.csprojAssemblyReference.cache
-A:\Brock Onedrive\OneDrive - Brockenhurst College\Programs\Samuel L Jackson quote generator\obj\Debug\Samuel L Jackson quote generator.csproj.CoreCompileInputs.cache
-A:\Brock Onedrive\OneDrive - Brockenhurst College\Programs\Samuel L Jackson quote generator\obj\Debug\Samuel L Jackson quote generator.exe
-A:\Brock Onedrive\OneDrive - Brockenhurst College\Programs\Samuel L Jackson quote generator\obj\Debug\Samuel L Jackson quote generator.pdb
